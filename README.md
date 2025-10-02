@@ -330,7 +330,7 @@ enum OrderStatus { PENDIENTE EN_PROCESO LISTO ENTREGADO CANCELADO }
 
 ## Licencia
 
-MIT © 2025 — Ustedes ✨
+AGPL © 2025 — Ustedes ✨
 
 ---
 
